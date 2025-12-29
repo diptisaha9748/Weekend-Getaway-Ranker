@@ -1,0 +1,29 @@
+Top Weekend Getaways from Delhi
+                 Name   City  State  ...  Google review rating  Number of google review in lakhs  final_score
+0          India Gate  Delhi  Delhi  ...                   4.6                              2.60     1.000000      
+7            Red Fort  Delhi  Delhi  ...                   4.5                              1.50     0.820873      
+14        Qutub Minar  Delhi  Delhi  ...                   4.5                              1.37     0.807976      
+2   Akshardham Temple  Delhi  Delhi  ...                   4.6                              0.40     0.781746      
+9      Sunder Nursery  Delhi  Delhi  ...                   4.6                              0.16     0.757937      
+
+[5 rows x 7 columns]
+
+Top Weekend Getaways from Mumbai
+                                              Name    City  ... Number of google review in lakhs  final_score
+17                                Gateway of India  Mumbai  ...                             3.60     0.860000      
+20                            Siddhivinayak Temple  Mumbai  ...                             1.05     0.820423      
+21                                Mahalaxmi Temple  Mumbai  ...                             0.33     0.699718      
+16                                    Marine Drive  Mumbai  ...                             1.50     0.642113      
+18  Chhatrapati Shivaji Maharaj Vastu Sangrahalaya  Mumbai  ...                             0.34     0.630423      
+
+[5 rows x 7 columns]
+
+Top Weekend Getaways from Bangalore
+                        Name       City  ... Number of google review in lakhs  final_score
+31   ISKCON Temple Bangalore  Bangalore  ...                             1.14     0.935714
+28  Lalbagh Botanical Garden  Bangalore  ...                             1.50     0.900000
+30            Vidhana Soudha  Bangalore  ...                             0.80     0.875000
+29               Cubbon Park  Bangalore  ...                             1.32     0.867857
+27          Bangalore Palace  Bangalore  ...                             0.90     0.692857
+
+[5 rows x 7 columns]
