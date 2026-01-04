@@ -1,6 +1,6 @@
 import pandas as pd
 
-#df = pd.read_csv("Top Indian Places to Visit.csv")
+df = pd.read_csv("Top Indian Places to Visit.csv")
 #print(df.head())
 #print(df.columns)
 
@@ -81,10 +81,19 @@ if __name__ == "__main__":
                     "Name",
                     "City",
                     "State",
-                    "distance_km",
+                    "Zone",
+                    "Type",
+                    "Establishment Year",
+                    "Time needed to visit in hrs",
                     "Google review rating",
                     "Number of google review in lakhs",
+                    "Best Time to visit",
                     "final_score",
+                    "Entrance Fee in INR",
+                    "Airport with 50km Radius",
+                    "Weekly Off",
+                    "Significance",
+                    "DSLR Allowed"                   
                 ]
             ]
         )
