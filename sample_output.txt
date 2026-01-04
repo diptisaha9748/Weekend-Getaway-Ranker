@@ -1,29 +1,29 @@
 Top Weekend Getaways from Delhi
-                 Name   City  State  ...  Google review rating  Number of google review in lakhs  final_score
-0          India Gate  Delhi  Delhi  ...                   4.6                              2.60     1.000000      
-7            Red Fort  Delhi  Delhi  ...                   4.5                              1.50     0.820873      
-14        Qutub Minar  Delhi  Delhi  ...                   4.5                              1.37     0.807976      
-2   Akshardham Temple  Delhi  Delhi  ...                   4.6                              0.40     0.781746      
-9      Sunder Nursery  Delhi  Delhi  ...                   4.6                              0.16     0.757937      
+                 Name   City  State      Zone  ... Airport with 50km Radius Weekly Off  Significance  DSLR Allowed
+0          India Gate  Delhi  Delhi  Northern  ...                      Yes        NaN    Historical           Yes
+7            Red Fort  Delhi  Delhi  Northern  ...                      Yes        NaN    Historical           Yes
+14        Qutub Minar  Delhi  Delhi  Northern  ...                      Yes        NaN    Historical           Yes
+2   Akshardham Temple  Delhi  Delhi  Northern  ...                      Yes        NaN     Religious            No
+9      Sunder Nursery  Delhi  Delhi  Northern  ...                      Yes        NaN     Botanical           Yes
 
-[5 rows x 7 columns]
+[5 rows x 16 columns]
 
 Top Weekend Getaways from Mumbai
-                                              Name    City  ... Number of google review in lakhs  final_score
-17                                Gateway of India  Mumbai  ...                             3.60     0.860000      
-20                            Siddhivinayak Temple  Mumbai  ...                             1.05     0.820423      
-21                                Mahalaxmi Temple  Mumbai  ...                             0.33     0.699718      
-16                                    Marine Drive  Mumbai  ...                             1.50     0.642113      
-18  Chhatrapati Shivaji Maharaj Vastu Sangrahalaya  Mumbai  ...                             0.34     0.630423      
+                                              Name    City       State  ... Weekly Off Significance DSLR Allowed
+17                                Gateway of India  Mumbai  Maharastra  ...        NaN   Historical          Yes
+20                            Siddhivinayak Temple  Mumbai  Maharastra  ...        NaN    Religious           No
+21                                Mahalaxmi Temple  Mumbai  Maharastra  ...        NaN    Religious           No
+16                                    Marine Drive  Mumbai  Maharastra  ...        NaN       Scenic          Yes
+18  Chhatrapati Shivaji Maharaj Vastu Sangrahalaya  Mumbai  Maharastra  ...        NaN   Historical          Yes
 
-[5 rows x 7 columns]
+[5 rows x 16 columns]
 
 Top Weekend Getaways from Bangalore
-                        Name       City  ... Number of google review in lakhs  final_score
-31   ISKCON Temple Bangalore  Bangalore  ...                             1.14     0.935714
-28  Lalbagh Botanical Garden  Bangalore  ...                             1.50     0.900000
-30            Vidhana Soudha  Bangalore  ...                             0.80     0.875000
-29               Cubbon Park  Bangalore  ...                             1.32     0.867857
-27          Bangalore Palace  Bangalore  ...                             0.90     0.692857
+                        Name       City      State      Zone  ... Airport with 50km Radius Weekly Off   Significance  DSLR Allowed
+31   ISKCON Temple Bangalore  Bangalore  Karnataka  Southern  ...                      Yes        NaN      Religious           Yes    
+28  Lalbagh Botanical Garden  Bangalore  Karnataka  Southern  ...                      Yes        NaN         Nature           Yes    
+30            Vidhana Soudha  Bangalore  Karnataka  Southern  ...                      Yes        NaN  Architectural            No    
+29               Cubbon Park  Bangalore  Karnataka  Southern  ...                      Yes        NaN         Nature           Yes    
+27          Bangalore Palace  Bangalore  Karnataka  Southern  ...                      Yes     Monday     Historical           Yes    
 
-[5 rows x 7 columns]
+[5 rows x 16 columns]
